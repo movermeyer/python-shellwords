@@ -51,9 +51,9 @@ __ https://github.com/mattn/go-shellwords
    :target: https://travis-ci.org/mozillazg/python-shellwords
 .. |Coverage| image:: https://coveralls.io/repos/mozillazg/python-shellwords/badge.png?branch=master
    :target: https://coveralls.io/r/mozillazg/python-shellwords
-.. |PyPI version| image:: https://pypip.in/version/shellwords/badge.png
+.. |PyPI version| image:: https://img.shields.io/pypi/v/shellwords.svg
    :target: https://pypi.python.org/pypi/shellwords
-.. |PyPI downloads| image:: https://pypip.in/download/shellwords/badge.png
+.. |PyPI downloads| image:: https://img.shields.io/pypi/dm/shellwords.svg
    :target: https://pypi.python.org/pypi/shellwords
-.. |Python versions| image:: https://pypip.in/py_versions/shellwords/badge.svg
+.. |Python versions| image:: https://img.shields.io/pypi/pyversions/shellwords.svg
    :target: https://pypi.python.org/pypi/shellwords
